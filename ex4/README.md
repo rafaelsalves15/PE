@@ -1,0 +1,1 @@
+O ficheiro Utentes.xlsx contém dados relativos a um conjunto de variáveis (Idade, Colesterol, IMC - Índice de Massa Corporal, TAD - Tensão Arterial Diastólica) associadas a 76 utentes de um serviço de saúde. Construa um gráfico de dispersão entre as variáveis Idade e TAD.

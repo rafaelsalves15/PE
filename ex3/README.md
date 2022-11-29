@@ -1,0 +1,1 @@
+Os dados no ficheiro QualidadeARO3.xlsx correspondem às observações horárias de níveis de ozono, em microgramas por metro cúbico, recolhidas em 10 estações da rede QUALAR (https://qualar.apambiente.pt), em 2020. Com recurso à função ggplot represente, num único histograma, os valores dos níveis de ozono registados nas estações de Restelo e Laranjeiro-Almada em 2020.
